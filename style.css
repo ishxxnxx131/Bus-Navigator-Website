@@ -1,0 +1,123 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+
+:root{
+    --primary-color: hsl(353, 32%, 89%);
+    --title-color: hsl(208,16%,24%);
+    --text-color: hsl(208, 15%, 28%);
+    --body-color: #fff;
+    --body-color-alt:hsl(160, 16%, 96%);
+    --body-font:'Mulish', sans-serif;
+    --second-font:'Jost', sans-serif;
+
+    --h1-font-size: 50px;
+    --h2-font-size: 40px;
+    --h3-font-size: 18px;
+    --normal-font-size: 15px;
+    --small-font-size: 14px;
+}
+
+body{
+    font-family: var(--body-font);
+    font-size: var(--normal-font-size);
+    color: var(--text-color);
+    background-color: var(--body-color);
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+.container{
+    background-color: var(--primary-color);
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+
+}
+
+.button {
+    display: inline-block;
+    background-color: var(--primary-color);
+    color: var(--body-color);
+    padding: 15px 20px;
+    font-family: var(--second-font);
+    font-size: var(--small-font-size);
+    font-weight: 500;
+    border-radius: 4px;
+}
+.header{
+    background-color: var(--body-color-alt);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 10;
+    
+}
+.nav{
+   
+    height: 81px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav__logo-img{
+    max-width: 150px;
+}
+.nav__item{
+    display: inline-block;
+}
+.nav__link {
+    color: var(--title-color);
+    font-family: var(--second-font);
+    font-size:var(--small-font-size);
+    font-weight: 500;
+    margin-right: 30px;
+    transition: 0.3s;
+}
+
+.nav__link:hover{
+    color: var(--primary-color);
+}
+
+.nav__buttons {
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 44px;
+}
+
+.nav__link i {
+    margin-right: 2px;
+    position: relative;
+    top: 1px;
+
+}
+
+.sign-in,
+.nav__close,
+.nav__toggle {
+    display: none;
+}
+
+/** active link */
+
+.active-link {
+
+}
+
+
