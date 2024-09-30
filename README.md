@@ -19,7 +19,11 @@ This project is built using:
 
 ## 📸 Screenshots
 
-![Bus Navigator Screenshot]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 091352.png")
+![Bus Navigator Home Page](C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 091352.png)
+![Services](C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100011.png)
+(C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100159.png)
+(C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100238.png)
+(C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100340.png)
 
 ## 💻 Getting Started
 
