@@ -19,11 +19,20 @@ This project is built using:
 
 ## 📸 Screenshots
 
-![Bus Navigator Home Page](Screenshot 2024-02-07 091352.png)
-![Services](Screenshot 2024-02-07 100011.png)
-(Screenshot 2024-02-07 100159.png)
-(Screenshot 2024-02-07 100238.png)
-(Screenshot 2024-02-07 100340.png)
+### Home Page
+![Home Page](Screenshot%202024-02-07%20095920.png)
+
+### Bus Routes
+![Bus Routes](Screenshot%202024-02-07%20100011.png)
+
+### Schedule View
+![Schedule View](Screenshot%202024-02-07%20100159.png)
+
+### Additional Views
+![Additional View 1](Screenshot%202024-02-07%20100238.png)
+![Additional View 2](Screenshot%202024-02-07%20100340.png)
+![Additional View 3](Screenshot%202024-02-07%20100435.png)
+
 
 ## 💻 Getting Started
 
