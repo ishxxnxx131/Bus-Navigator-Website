@@ -17,6 +17,10 @@ This project is built using:
 - **CSS**: For styling and layout.
 - **JavaScript**: (Optional) For dynamic features like real-time updates.
 
+## 📸 Screenshots
+
+![Bus Navigator Screenshot]("C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 091352.png")
+
 ## 💻 Getting Started
 
 To run the project locally, follow these steps:
