@@ -22,13 +22,13 @@ This project is built using:
 ### Home Page
 ![Home Page](Screenshot%202024-02-07%20095920.png)
 
-### Bus Routes
-![Bus Routes](Screenshot%202024-02-07%20100011.png)
+### Our Services
+![Our Services](Screenshot%202024-02-07%20100011.png)
 
-### Schedule View
-![Schedule View](Screenshot%202024-02-07%20100159.png)
+### Track Your Bus
+![Track Your Bus](Screenshot%202024-02-07%20100159.png)
 
-### Additional Views
+### Additional Features
 ![Additional View 1](Screenshot%202024-02-07%20100238.png)
 ![Additional View 2](Screenshot%202024-02-07%20100340.png)
 ![Additional View 3](Screenshot%202024-02-07%20100435.png)
