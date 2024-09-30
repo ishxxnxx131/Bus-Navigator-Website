@@ -19,11 +19,11 @@ This project is built using:
 
 ## 📸 Screenshots
 
-![Bus Navigator Home Page](C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 091352.png)
-![Services](C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100011.png)
-(C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100159.png)
-(C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100238.png)
-(C:\Users\Hp\OneDrive\Pictures\Screenshots\Screenshot 2024-02-07 100340.png)
+![Bus Navigator Home Page](Screenshot 2024-02-07 091352.png)
+![Services](Screenshot 2024-02-07 100011.png)
+(Screenshot 2024-02-07 100159.png)
+(Screenshot 2024-02-07 100238.png)
+(Screenshot 2024-02-07 100340.png)
 
 ## 💻 Getting Started
 
